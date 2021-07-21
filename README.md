@@ -5,6 +5,11 @@ Check out some of my projects:
 |---|---|
 |[![High Effort Storm](images/high-effort-storm.png)](https://github.com/StarUndrscre/HighEffortStorm)|[![Outer Solution Modchart (discontinued)](images/outer-solution.jpg)](https://gamebanana.com/wips/56077)|
 
+- 🔭 I’m currently working on Friday Night Funkin' mods
+- 🌱 I’m currently learning how to draw
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: i spent 30 minutes trying to figure out how Github Pages work before I created this bio README thing
+
 <!--
 **StarUndrscre/StarUndrscre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
