@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey! My name is Star.
+I do coding projects and music making for fun. 
+Check out some of my projects:
+|High Effort Storm|Outer Solution Modchart (discontinued)|
+|---|---|
+|[![High Effort Storm](images/high-effort-storm.png)](https://github.com/StarUndrscre/HighEffortStorm)|[![Outer Solution Modchart (discontinued)](images/outer-solution.jpg)](https://gamebanana.com/wips/56077)|
 
 <!--
 **StarUndrscre/StarUndrscre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
