@@ -3,7 +3,7 @@ I do coding projects and music making for fun.
 Check out some of my projects:
 |High Effort Storm|Outer Solution Modchart (discontinued)|
 |---|---|
-|[![High Effort Storm](images/high-effort-storm.png)](https://github.com/StarUndrscre/HighEffortStorm)|[![Outer Solution Modchart (discontinued)](images/outer-solution.jpg)](https://gamebanana.com/wips/56077)|[![My Website](images/website.jpg)](https://starundrscre.github.io)
+|[![High Effort Storm](images/high-effort-storm.png)](https://github.com/StarUndrscre/HighEffortStorm)|[![Outer Solution Modchart (discontinued)](images/outer-solution.jpg)](https://gamebanana.com/wips/56077)|[![My Website](images/website.jpg)](https://starundrscre.github.io)|
 
 - 🔭 I’m currently doing nothing
 - 🌱 I’m currently learning nothing
