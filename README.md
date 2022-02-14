@@ -1,16 +1,14 @@
 ### Hey! My name is Star.
 I do coding projects and music making for fun. 
 Check out some of my projects:
-|High Effort Storm|Outer Solution Modchart (discontinued)|
-|---|---|
-|[![High Effort Storm](images/high-effort-storm.png)](https://github.com/StarUndrscre/HighEffortStorm)|[![Outer Solution Modchart (discontinued)](images/outer-solution.jpg)](https://gamebanana.com/wips/56077)|
 |My Website|Coming soon|
+|---|---|
 |[![My Website](images/web.jpg)](https://starundrscre.github.io)|
 
-- 🔭 I’m currently working on my website
-- 🌱 I’m currently learning HTML/CSS/JS
+- 🔭 I’m currently working on NotITG files
+- 🌱 I’m currently learning Lua
 - 😄 Pronouns: they/them
-- ⚡ Fun fact: i'm stupid
+- ⚡ Fun fact: squid games‼️
 
 <!--
 **StarUndrscre/StarUndrscre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
