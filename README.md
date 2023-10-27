@@ -1,26 +1,2 @@
-### Hey! My name is Star.
-I do coding projects and music making for fun. 
-Check out some of my projects:
-|My Website|Scuot Nextbot|
-|---|---|
-|[![My Website](images/web.jpg)](https://starundrscre.github.io)|[![Scuot Nexbot](images/2824251305_preview_thumb1.jpg)](https://steamcommunity.com/sharedfiles/filedetails/?id=2824251305)
-
-- 🔭 I’m currently working on NotITG files and GMod addons
-- 🌱 I’m currently learning Lua
-- 😄 Pronouns: they/them
-- ⚡ Fun fact: squid games‼️
-
-<!--
-**StarUndrscre/StarUndrscre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### awoo :3 
+https://starundrscre.neocities.org
